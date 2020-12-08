@@ -1,2 +1,2 @@
 # Omega-Centauri-eDR3
-Data
+Data for Omega Centauri Distance Measurement
